@@ -2,7 +2,7 @@
 
 Interactive IPL dashboards built on **295,732 ball-by-ball records** (1,243 matches, 2008 to 2026).
 
-**🔗 Live demo:** https://YOUR-USERNAME.github.io/ipl-live-dashboard/
+**🔗 Live demo:** https://chinnadabbadimeghana-max.github.io/ipl-live-dashboard/
 
 ## Dashboards
 | Dashboard | What it shows |
